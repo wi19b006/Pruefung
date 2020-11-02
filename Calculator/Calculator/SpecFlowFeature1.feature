@@ -3,9 +3,7 @@
  As a math noob
  I want to use trigonometric functions
 
-@mytag
-
- Scenario: CalcSin
+Scenario: CalcSin
  Given the number is Pi
  Then sin is 0
 
